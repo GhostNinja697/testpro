@@ -7972,3 +7972,7 @@
 135.125.123.246,5432,FR,OVHcloud
 158.101.39.0,42979,US,Oracle Cloud
 84.32.44.80,443,US,Hosteons.com
+146.70.61.48,443,GB,M247 Europe SRL
+98.98.142.247,443,GB,Zenlayer Inc
+193.228.90.99,443,IR,Mizban Dade Shetaban Co. (Ltd)
+158.101.152.6,2919,JP,Oracle Cloud
