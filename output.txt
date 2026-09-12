@@ -8033,3 +8033,4 @@
 141.148.187.195,443,US,Oracle Corporation
 165.22.248.134,443,SG,DigitalOcean
 144.31.73.52,443,DE,u1host ltd
+80.208.229.55,443,LT,Interneto vizija
