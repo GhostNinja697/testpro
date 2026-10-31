@@ -8042,3 +8042,4 @@
 38.244.129.112,443,DE,Leaseweb Deutschland GmbH
 159.65.88.131,443,GB,DigitalOcean
 38.180.245.199,443,DE,Leaseweb Deutschland GmbH
+46.32.184.75,443,LV,SIA VEESP
